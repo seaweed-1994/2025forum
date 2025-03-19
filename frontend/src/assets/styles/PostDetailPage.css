@@ -1,0 +1,33 @@
+.post-detail-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.post-detail h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.post-meta {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.post-meta span {
+  margin-right: 15px;
+}
+
+.post-content {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.post-stats {
+  color: #888;
+}
+
+.post-stats span {
+  margin-right: 10px;
+}

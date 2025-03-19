@@ -1,0 +1,21 @@
+.page-background {
+  background: url('../images/login-bg.jpg') center/cover;
+   min-height: 100vh;
+  padding: 20px;
+}
+.auth-container {
+  display: flex;
+  padding: 24px;
+  color:white;
+}
+
+.auth-container .auth-form {
+  max-width: 520px;  /* 标准 CSS 注释 */
+  padding: 40px;
+}
+
+.auth-container .auth-form:hover {
+  transform: translateY(-2px);
+}
+.auth-footer a {
+  color: #1890ff;}
